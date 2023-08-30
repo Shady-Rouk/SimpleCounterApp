@@ -4,7 +4,7 @@ Submitted by: **Farouk Balogun**
 
 **SimpleCounter** is an android app that tracks the number of times a user has tapped on the screen, and allows the user to accumulate points that can be exchanged for an upgrade.
 
-Time spent: **1** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
