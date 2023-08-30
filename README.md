@@ -21,8 +21,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='' title='Video Walkthrough optional' width='' alt='Video Walkthrough optional' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Optional feature:
+
+<img src='walkthrough_optional.gif' title='Video Walkthrough optional' width='' alt='Video Walkthrough optional' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap).
